@@ -1,5 +1,5 @@
 # THREE.JS SDFGI
-[Live demo](./dist/index.html)
+[Live demo](https://aifanatic.github.io/three-sdfgi/dist/index.html)
 <p align=center>
 <img src="./screenshots/showcase.gif">
 </p>
