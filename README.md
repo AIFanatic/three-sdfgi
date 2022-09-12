@@ -23,8 +23,8 @@ Therefore, the goal is to share some code that is semi functional for others to 
 - Efficient SDF ray marching, by combining all the SDF's into a scene SDF.
 <br>
 This was explored but it has several caveats:
--  - Either the scene is static, or performance of combining several SDF's in real time becomes a problem, especially using WebGL only.
--  - SDF resolution becomes a problem due to the cubic nature of SDF's.
+    - Either the scene is static, or performance of combining several SDF's in real time becomes a problem, especially using WebGL only.
+    - SDF resolution becomes a problem due to the cubic nature of SDF's.
 - Shadows using the depth buffer and trace against the SDF's.
 
 ## References
